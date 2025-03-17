@@ -1,0 +1,91 @@
+Loops.
+What are Loops , how do we use them , and the types of loops.
+Let's discuss 
+
+
+* what is loop
+Loop is a mechanism that enables you to execute the same sequence of statement 
+repeatedly until the condition is met.
+
+The statement inside a loop sometimes called ITERATION Statements.
+
+Java Only support:
+1. While 
+2. DO While
+3. For
+4. Switch 
+
+Let's Start with " Switch ";
+* A switch loop in Java allows a Variable or a expression to be tested against 
+    the list of value or multiple matches.
+
+* Substitute. A long series of Nested-If-Else Statement 
+
+* The condition in the switch can be a variable or a expression 
+* You can have end number of cases in switch statement.
+* It checks all the cases line by line. and it will only terminate when the case
+    is matched. it will break out the switch.
+* Not every cases need to contain the break statement, if no break appears the flow 
+of code will continue until a break is reached.
+*A switch statement can have an optional default case. The default case 
+can be used for performing a task when none of the cases is true. No break is 
+needed in the default case.
+
+
+* Basics of loops
+There are two essential elements to a loop
+1. The Block of statement to be executed repeatedly
+2. A condition that determines when to start, continue or stop the loop
+
+Every loop construct  follows a standard Algorithm 
+1. Initialize the value
+2. Evaluate condition 
+3. increment or decrement 
+
+
+* The " FOR "  Loop
+A compact form of while loop
+The FOR loop combines all following the three ingredient for a loop in one 
+statement 
+* Initialize - condition checking - increment or decrement
+ 
+Syntax
+ for (int num = 0; num <= 10 ; num++)
+
+
+* The  " While Loop "
+Known as repetitive loop or iteration loop
+Executed as long as the test condition evaluates to  true 
+
+Syntax
+while (test condition)
+{
+    statement 1;
+    statement n;
+}
+
+In case of  more than one statement in the loop, use curly braces. Otherwise ,
+only first statement is executed, the rest of the statement ill be ignored.
+ 
+
+* The " DO While Loop "
+Same as the while loop with the following difference
+In WHile loop the test condition is evaluate first, followed by the execution of 
+the statement
+
+In DO While loop , the test condition is evaluate after the statements in the loop 
+has been executed once.
+The statement are executed at least once, even if the test condition result is false
+
+* Syntax 
+
+do 
+{
+    statement 1;
+    statement n;
+}
+while (test condition);
+
+this loop can be used a lot in a situation where you are supposed to keep a program 
+running based on user's input.
+for example. do you want to enter more data or  terminate the program. (y/n)

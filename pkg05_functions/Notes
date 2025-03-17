@@ -1,0 +1,29 @@
+Functions
+
+You can think of a function as an input output machine
+The machine takes the raw material as in input and work with them to produce    
+a product (output)
+
+A Function accepts values, process them and then performs an action, return a 
+new value or both
+
+Function can save us from having to write same code again.
+
+A function can be called again and again to perform the repeated tasks
+
+STATIC FUNCTION IN JAVA
+    *The static keyword can be used with variable, constant and fucntions
+    * The main purpose of using the static keyword is to manage the memory so that
+        we can use the memory efficiently 
+    * if the keyword is prefixed before the function name, the function is called as 
+        static function 
+        it is often called a method
+
+        
+    PUBLIC STATIC VOID MAIN(STRING[] ARGS)
+    PUBLIC = Access specifier 
+    Static  = Static keyword
+    void = return type 
+    main = method name 
+    String = array
+

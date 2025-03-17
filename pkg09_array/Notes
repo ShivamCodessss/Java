@@ -1,0 +1,24 @@
+Why are Array used?
+
+Array help maintain large sets of data under a single variable name to avoid 
+confusion that can occur when using several variables
+
+Java Array
+    * an object which contain elements of a similar data type.
+    * Contiguous memory location 
+    * a data structure where we can store similar elements
+    * Store only a fixed element in a java array
+    * Index based
+
+Advantages
+    * Code Optimization
+        it makes the code more optimized,
+        where we can retrieve or store the data efficiently
+
+    * Random Access
+        we can get any data located at an index position
+
+Types of Array
+
+    * Single Dimension Array
+    * Multi Dimension Array
