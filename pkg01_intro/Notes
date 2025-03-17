@@ -1,0 +1,42 @@
+Introduction of java.
+
+* java is a high-level object oriented programming language knows for its platform
+independent.
+
+* what i mean by platform independent is, you can run your code on any platform or 
+any operating system which has JVM.
+  
+It was developed by James Gosling at sun Microsystem in 1995 . and now is maintained 
+by ORACLE 
+
+
+Java follows the principle of WORA " Write Once Run Anywhere " because it has ability
+to run on different platforms using the JVM.
+
+This makes the one of the most widely used langugages in web development, mobile
+application, enterprise software and cloud computing.
+
+Key Features 
+
+1.) Platform Independent  
+2.) Object Oriented 
+3.) SImple and readable
+4.) Secure 
+5.) Multithreading
+6.) Inbuild API's
+
+
+Java Development Environment
+To develop java application you need.
+*   JDK (Java Development Kit)
+*   JRE (Java Runtime Environment) 
+*   JVM (Java Virtual Machine)
+
+
+Applications of Java
+
+*   Web Development – Using Spring Boot, Hibernate, JSP, Servlets.
+*   Mobile Development – Android apps using Java with Android Studio.
+*   Enterprise Software – Banking, healthcare, and ERP solutions.
+*   Cloud Computing – Java is widely used in AWS, Google Cloud, Azure.
+*   Game Development – Used in game engines like LibGDX.
